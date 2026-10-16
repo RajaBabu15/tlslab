@@ -2,7 +2,7 @@
 
 **An empirical study of CAS-retry amplification, cache-coherence pressure, and queue topology in concurrent producer-consumer pipelines.**
 
-Raja Babu &nbsp;·&nbsp; IIT (ISM) Dhanbad, B.Tech CSE 2026
+Raja Babu &nbsp;·&nbsp; IIT (ISM) Dhanbad, B.Tech Chemical Engineering, Second Major CSE 2026
 &nbsp;·&nbsp; <rajababu8520456@gmail.com>
 
 ---
